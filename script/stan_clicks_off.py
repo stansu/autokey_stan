@@ -1,5 +1,5 @@
 system.exec_command("xkbset -m")
-system.exec_command("xmodmap -e \"keycode 54 = c\"")
-system.exec_command("xmodmap -e \"keycode 39 = s\"")
-system.exec_command("xmodmap -e \"keycode 38 = a\"")
+system.exec_command("xmodmap -e \"keycode 54 = c C c C\"")
+system.exec_command("xmodmap -e \"keycode 39 = s S s S\"")
+system.exec_command("xmodmap -e \"keycode 38 = a A a A\"")
 dialog.info_dialog(message="stan_clicks off!")
