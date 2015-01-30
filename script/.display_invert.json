@@ -1,0 +1,33 @@
+{
+    "usageCount": 19, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "display_invert", 
+    "abbreviation": {
+        "wordChars": "[^ \\n]", 
+        "abbreviations": [
+            "ii"
+        ], 
+        "immediate": true, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "i", 
+        "modifiers": [
+            "<super>"
+        ]
+    }, 
+    "modes": [
+        1, 
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}

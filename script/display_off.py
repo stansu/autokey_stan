@@ -1,0 +1,1 @@
+system.exec_command("sh -c \"sleep 1 && xset dpms force off\"")
