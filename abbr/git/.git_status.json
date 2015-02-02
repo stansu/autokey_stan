@@ -1,12 +1,12 @@
 {
     "usageCount": 0, 
-    "omitTrigger": false, 
+    "omitTrigger": true, 
     "prompt": false, 
-    "description": "git_push", 
+    "description": "git_status", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [
-            "gp"
+            "gs"
         ], 
         "immediate": false, 
         "ignoreCase": false, 

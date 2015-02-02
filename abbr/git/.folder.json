@@ -1,31 +1,23 @@
 {
     "usageCount": 0, 
-    "omitTrigger": false, 
-    "prompt": false, 
-    "description": "git_add", 
     "abbreviation": {
         "wordChars": "[\\w]", 
-        "abbreviations": [
-            "ga"
-        ], 
+        "abbreviations": [], 
         "immediate": false, 
         "ignoreCase": false, 
         "backspace": true, 
         "triggerInside": false
     }, 
+    "modes": [], 
+    "title": "git", 
     "hotkey": {
         "hotKey": null, 
         "modifiers": []
     }, 
-    "modes": [
-        1
-    ], 
-    "showInTrayMenu": false, 
-    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "phrase", 
-    "sendMode": "kb"
+    "type": "folder", 
+    "showInTrayMenu": false
 }
