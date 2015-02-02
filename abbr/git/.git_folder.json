@@ -1,12 +1,12 @@
 {
-    "usageCount": 4, 
+    "usageCount": 1, 
     "omitTrigger": true, 
     "prompt": false, 
-    "description": "git_add", 
+    "description": "git_folder", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [
-            "ga"
+            "gf"
         ], 
         "immediate": false, 
         "ignoreCase": false, 

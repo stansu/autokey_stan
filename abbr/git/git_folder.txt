@@ -1,0 +1,1 @@
+cd /media/stan/data/autokey_stan
