@@ -1,1 +1,1 @@
-cd /home/stan/.config/autokey/data/autokey_stan
+cd /home/stan/Documents/autokey_stan
