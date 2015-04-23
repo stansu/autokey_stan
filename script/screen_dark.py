@@ -1,0 +1,1 @@
+system.exec_command("sh ~/Documents/bash/test" + " -1.0")

@@ -1,8 +1,8 @@
 {
-    "usageCount": 280, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "stan_clicks_on", 
+    "description": "screen_brightness", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": " ", 
+        "hotKey": "z", 
         "modifiers": [
-            "<shift>"
+            "<super>"
         ]
     }, 
     "modes": [], 

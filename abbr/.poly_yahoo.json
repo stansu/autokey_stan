@@ -1,5 +1,5 @@
 {
-    "usageCount": 6, 
+    "usageCount": 11, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "poly_yahoo", 
@@ -27,5 +27,5 @@
         "isRecursive": false
     }, 
     "type": "phrase", 
-    "sendMode": "kb"
+    "sendMode": "<ctrl>+v"
 }

@@ -1,5 +1,5 @@
 {
-    "usageCount": 20, 
+    "usageCount": 22, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "stan_clicks_off", 
@@ -17,9 +17,7 @@
             "<ctrl>"
         ]
     }, 
-    "modes": [
-        3
-    ], 
+    "modes": [], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 

@@ -1,8 +1,8 @@
 {
-    "usageCount": 280, 
+    "usageCount": 130, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "stan_clicks_on", 
+    "description": "screen_dark", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,12 +12,14 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": " ", 
+        "hotKey": "z", 
         "modifiers": [
-            "<shift>"
+            "<super>"
         ]
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 
